@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(206, 51, 51, 0.904);
+    background-color: rgba(236, 19, 236, 0.76);
+    color: rgb(rgb(143, 37, 37), rgb(72, 158, 72), rgb(179, 179, 190));
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.colorF{
+    background-color: rgb(179, 179, 190);
+}
